@@ -1,6 +1,6 @@
 import Head from "next/head";
 
-export const siteTitle = "Reubert Barbosa";
+export const siteTitle = "PDP - Reubert Barbosa";
 
 export const Layout = ({ children }: { children: React.ReactNode }) => {
   return (
